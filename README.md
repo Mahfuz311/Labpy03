@@ -5,7 +5,7 @@ Repository ini berisi tentang dua buah kode program yang berfungsi untuk men-gen
 
 ### Latihan 1: Latihan1.py
 
-![Screenshot 2024-10-30 214119](https://github.com/user-attachments/assets/3c77d23c-ab51-46dd-b354-055cfc41cc27)
+<img src="Screenshot 2024-10-30 214119.png">
 
 #### Algorithm:
 
