@@ -71,7 +71,7 @@ Total laba adalah: 190000000.0
 
 Program ini akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
 
-
+<img src="Screenshot 2024-10-31 070621.png">
 
 ## Fitur Program ATM
 
