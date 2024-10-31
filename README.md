@@ -41,7 +41,7 @@ Selesai
 
 Program yang menghitung laba bulanan untuk investasi selama 8 bulan dengan tingkat laba yang bervariasi.
 
-
+<img src="Screenshot 2024-10-31 072109.png">
 
 #### Algorithm:
 
